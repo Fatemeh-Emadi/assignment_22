@@ -1,0 +1,1 @@
+SELECT * FROM products where NOT price BETWEEN 20000000 AND 30000000
